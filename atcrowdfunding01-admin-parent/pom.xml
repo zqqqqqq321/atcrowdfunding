@@ -22,7 +22,6 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
 
-
         <!-- 声明属性， 对 Spring 的版本进行统一管理 -->
         <!-- spring.version是别名，随便起，但要跟dependences标签中一致 -->
         <spring.version>5.2.11.RELEASE</spring.version>
